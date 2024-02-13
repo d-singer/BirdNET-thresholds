@@ -4,7 +4,7 @@ Data and R code related to the paper Singer et al. 2024
 
 Please cite any use of this work: 
 
-Singer et al. (2024): Aggregated time-series features boost species-specific differentiation of true and false positives in passive acoustic monitoring of bird assemblages, Remote Sensing in Ecology and Conservation
+Singer et al. (2024): Aggregated time-series features boost species-specific differentiation of true and false positives in passive acoustic monitoring of bird assemblages, Remote Sensing in Ecology and Conservation XXXXX
 
 # R scripts
 
