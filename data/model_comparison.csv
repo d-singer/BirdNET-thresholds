@@ -1,0 +1,367 @@
+german,prec,recall,threshold,model_performance,english,scientific,type,Threshold,nspec_highprec
+Amsel,0.995555555555556,1,uni10,0.996666666666667,Eur. Blackbird,Turdus merula,UNI10,UNI10,1
+Baumpieper,0.0266666666666667,1,uni10,0.27,Tree Pipit,Anthus trivialis,UNI10,UNI10,0
+Bergfink,0.328888888888889,1,uni10,0.496666666666667,Brambling,Fringilla montifringilla,UNI10,UNI10,0
+Blaumeise,0.942222222222222,1,uni10,0.956666666666667,Eur. Blue Tit,Cyanistes caeruleus,UNI10,UNI10,1
+Buchfink,0.973333333333333,1,uni10,0.98,Common Chaffinch,Fringilla coelebs,UNI10,UNI10,1
+Buntspecht,0.853333333333333,1,uni10,0.89,Great Sp. Woodp.,Dendrocopos major,UNI10,UNI10,0
+Eichelhäher,0.657777777777778,1,uni10,0.743333333333333,Eur. Jay,Garrulus glandarius,UNI10,UNI10,0
+Erlenzeisig,0.48,1,uni10,0.61,Eurasian Siskin,Spinus spinus,UNI10,UNI10,0
+Feldlerche,0.04,1,uni10,0.28,Eur. Skylark,Alauda arvensis,UNI10,UNI10,0
+Fichtenkreuzschnabel,0.0266666666666667,1,uni10,0.27,Red Crossbill,Loxia curvirostra,UNI10,UNI10,0
+Fitis,0.0361990950226244,1,uni10,0.277149321266968,Willow Warbler,Phylloscopus trochilus,UNI10,UNI10,0
+Gartenbaumläufer,0.0444444444444444,1,uni10,0.283333333333333,Short-toed Treecr.,Certhia brachydactyla,UNI10,UNI10,0
+Gartenrotschwanz,0.0933333333333333,1,uni10,0.32,Com. Redstart,Phoenicurus phoenicurus,UNI10,UNI10,0
+Gimpel,0.0577777777777778,1,uni10,0.293333333333333,Eur. Bullfinch,Pyrrhula pyrrhula,UNI10,UNI10,0
+Graureiher,0.101941747572816,1,uni10,0.326456310679612,Gray Heron,Ardea cinerea,UNI10,UNI10,0
+Grauschnäpper,0.195555555555556,1,uni10,0.396666666666667,Spotted Flyc.,Muscicapa striata,UNI10,UNI10,0
+Grauspecht,0.155555555555556,1,uni10,0.366666666666667,Gray-h. Woodp.,Picus canus,UNI10,UNI10,0
+Grünspecht,0.506666666666667,1,uni10,0.63,Eur. Green Woodp.,Picus viridis,UNI10,UNI10,0
+Habicht,0.0444444444444444,1,uni10,0.283333333333333,Northern Goshawk,Accipiter gentilis,UNI10,UNI10,0
+Halsbandschnäpper,0.0533333333333333,1,uni10,0.29,Col. Flycatcher,Ficedula albicollis,UNI10,UNI10,0
+Haubenmeise,0.0222222222222222,1,uni10,0.266666666666667,Crested Tit,Lophophanes cristatus,UNI10,UNI10,0
+Heckenbraunelle,0.115555555555556,1,uni10,0.336666666666667,Dunnock,Prunella modularis,UNI10,UNI10,0
+Hohltaube,0.262222222222222,1,uni10,0.446666666666667,Stock Dove,Columba oenas,UNI10,UNI10,0
+Kernbeißer,0.884444444444445,1,uni10,0.913333333333333,Hawfinch,Coccothraustes coccothraustes,UNI10,UNI10,0
+Kleiber,0.915555555555556,1,uni10,0.936666666666667,Eur. Nuthatch,Sitta europaea,UNI10,UNI10,1
+Kleinspecht,0.128888888888889,1,uni10,0.346666666666667,Lesser Sp. Woodp.,Dryobates minor,UNI10,UNI10,0
+Kohlmeise,0.862222222222222,1,uni10,0.896666666666667,Great Tit,Parus major,UNI10,UNI10,0
+Kolkrabe,0.88,1,uni10,0.91,Common Raven,Corvus corax,UNI10,UNI10,0
+Kranich,0.0432098765432099,1,uni10,0.282407407407407,Common Crane,Grus grus,UNI10,UNI10,0
+Mauersegler,0.0234741784037559,1,uni10,0.267605633802817,Common Swift,Apus apus,UNI10,UNI10,0
+Misteldrossel,0.453333333333333,1,uni10,0.59,Mistle Thrush,Turdus viscivorus,UNI10,UNI10,0
+Mittelspecht,0.155555555555556,1,uni10,0.366666666666667,Middle Sp. Woodp.,Dendrocoptes medius,UNI10,UNI10,0
+Mäusebussard,0.28,1,uni10,0.46,Common Buzzard,Buteo buteo,UNI10,UNI10,0
+Mönchsgrasmücke,0.711111111111111,1,uni10,0.783333333333333,Eur. Blackcap,Sylvia atricapilla,UNI10,UNI10,0
+Pirol,0.0577777777777778,1,uni10,0.293333333333333,Eur. Gold. Oriole,Oriolus oriolus,UNI10,UNI10,0
+Rabenkrähe,0.585635359116022,1,uni10,0.689226519337017,Carrion Crow,Corvus corone,UNI10,UNI10,0
+Ringeltaube,0.902222222222222,1,uni10,0.926666666666667,Com. Wood-Pigeon,Columba palumbus,UNI10,UNI10,1
+Rotdrossel,0.431111111111111,1,uni10,0.573333333333333,Redwing,Turdus iliacus,UNI10,UNI10,0
+Rotkehlchen,0.888888888888889,1,uni10,0.916666666666667,Europ. Robin,Erithacus rubecula,UNI10,UNI10,0
+Rotmilan,0.0533333333333333,1,uni10,0.29,Red Kite,Milvus milvus,UNI10,UNI10,0
+Schwanzmeise,0.08,1,uni10,0.31,Long-tailed Tit,Aegithalos caudatus,UNI10,UNI10,0
+Schwarzspecht,0.386666666666667,1,uni10,0.54,Black Woodp.,Dryocopus martius,UNI10,UNI10,0
+Singdrossel,0.933333333333333,1,uni10,0.95,Song Thrush,Turdus philomelos,UNI10,UNI10,1
+Sommergoldhähnchen,0.368888888888889,1,uni10,0.526666666666667,Common Firecrest,Regulus ignicapilla,UNI10,UNI10,0
+Sperlingskauz,0.0444444444444444,1,uni10,0.283333333333333,Eur. Pygmy-Owl,Glaucidium passerinum,UNI10,UNI10,0
+Star,0.835555555555556,1,uni10,0.876666666666667,Europ. Starling,Sturnus vulgaris,UNI10,UNI10,0
+Stieglitz,0.0933333333333333,1,uni10,0.32,Europ. Goldfinch,Carduelis carduelis,UNI10,UNI10,0
+Stockente,0.131313131313131,1,uni10,0.348484848484849,Mallard,Anas platyrhynchos,UNI10,UNI10,0
+Sumpfmeise,0.395555555555556,1,uni10,0.546666666666667,Marsh Tit,Poecile palustris,UNI10,UNI10,0
+Tannenmeise,0.524444444444445,1,uni10,0.643333333333333,Coal Tit,Periparus ater,UNI10,UNI10,0
+Trauerschnäpper,0.675555555555556,1,uni10,0.756666666666667,Eur. Pied Flycatcher,Ficedula hypoleuca,UNI10,UNI10,0
+Wacholderdrossel,0.054421768707483,1,uni10,0.290816326530612,Fieldfare,Turdus pilaris,UNI10,UNI10,0
+Wachtel,0.154411764705882,1,uni10,0.365808823529412,Common Quail,Coturnix coturnix,UNI10,UNI10,0
+Waldbaumläufer,0.177777777777778,1,uni10,0.383333333333333,Eur. Treecreeper,Certhia familiaris,UNI10,UNI10,0
+Waldkauz,0.782222222222222,1,uni10,0.836666666666667,Tawny Owl,Strix aluco,UNI10,UNI10,0
+Waldlaubsänger,0.568888888888889,1,uni10,0.676666666666667,Wood Warbler,Phylloscopus sibilatrix,UNI10,UNI10,0
+Waldschnepfe,0.0443349753694581,1,uni10,0.283251231527094,Eur. Woodcock,Scolopax rusticola,UNI10,UNI10,0
+Wendehals,0.287234042553192,1,uni10,0.465425531914894,Eur. Wryneck,Jynx torquilla,UNI10,UNI10,0
+Wintergoldhähnchen,0.0133333333333333,1,uni10,0.26,Goldcrest,Regulus regulus,UNI10,UNI10,0
+Zaunkönig,0.862222222222222,1,uni10,0.896666666666667,Eur. Wren,Troglodytes troglodytes,UNI10,UNI10,0
+Zilpzalp,0.546666666666667,1,uni10,0.66,Com. Chiffchaff,Phylloscopus collybita,UNI10,UNI10,0
+Amsel,1,0.558035714285714,uni50,0.889508928571429,Eur. Blackbird,Turdus merula,UNI50,UNI50,1
+Baumpieper,0.048,1,uni50,0.286,Tree Pipit,Anthus trivialis,UNI50,UNI50,0
+Bergfink,0.528,0.891891891891892,uni50,0.618972972972973,Brambling,Fringilla montifringilla,UNI50,UNI50,0
+Blaumeise,1,0.589622641509434,uni50,0.897405660377359,Eur. Blue Tit,Cyanistes caeruleus,UNI50,UNI50,1
+Buchfink,1,0.570776255707763,uni50,0.892694063926941,Common Chaffinch,Fringilla coelebs,UNI50,UNI50,1
+Buntspecht,1,0.651041666666667,uni50,0.912760416666667,Great Sp. Woodp.,Dendrocopos major,UNI50,UNI50,1
+Eichelhäher,0.928,0.783783783783784,uni50,0.891945945945946,Eur. Jay,Garrulus glandarius,UNI50,UNI50,1
+Erlenzeisig,0.656,0.759259259259259,uni50,0.681814814814815,Eurasian Siskin,Spinus spinus,UNI50,UNI50,0
+Feldlerche,0,1,uni50,0.25,Eur. Skylark,Alauda arvensis,UNI50,UNI50,0
+Fichtenkreuzschnabel,0.048,1,uni50,0.286,Red Crossbill,Loxia curvirostra,UNI50,UNI50,0
+Fitis,0.0661157024793388,1,uni50,0.299586776859504,Willow Warbler,Phylloscopus trochilus,UNI50,UNI50,0
+Gartenbaumläufer,0.08,1,uni50,0.31,Short-toed Treecr.,Certhia brachydactyla,UNI50,UNI50,0
+Gartenrotschwanz,0.16,0.952380952380952,uni50,0.358095238095238,Com. Redstart,Phoenicurus phoenicurus,UNI50,UNI50,0
+Gimpel,0.104,1,uni50,0.328,Eur. Bullfinch,Pyrrhula pyrrhula,UNI50,UNI50,0
+Graureiher,0.19811320754717,1,uni50,0.398584905660377,Gray Heron,Ardea cinerea,UNI50,UNI50,0
+Grauschnäpper,0.32,0.909090909090909,uni50,0.467272727272727,Spotted Flyc.,Muscicapa striata,UNI50,UNI50,0
+Grauspecht,0.256,0.914285714285714,uni50,0.420571428571429,Gray-h. Woodp.,Picus canus,UNI50,UNI50,0
+Grünspecht,0.744,0.81578947368421,uni50,0.761947368421053,Eur. Green Woodp.,Picus viridis,UNI50,UNI50,0
+Habicht,0.08,1,uni50,0.31,Northern Goshawk,Accipiter gentilis,UNI50,UNI50,0
+Halsbandschnäpper,0.096,1,uni50,0.322,Col. Flycatcher,Ficedula albicollis,UNI50,UNI50,0
+Haubenmeise,0.04,1,uni50,0.28,Crested Tit,Lophophanes cristatus,UNI50,UNI50,0
+Heckenbraunelle,0.208,1,uni50,0.406,Dunnock,Prunella modularis,UNI50,UNI50,0
+Hohltaube,0.456,0.966101694915254,uni50,0.583525423728814,Stock Dove,Columba oenas,UNI50,UNI50,0
+Kernbeißer,1,0.628140703517588,uni50,0.907035175879397,Hawfinch,Coccothraustes coccothraustes,UNI50,UNI50,1
+Kleiber,0.952,0.577669902912621,uni50,0.858417475728155,Eur. Nuthatch,Sitta europaea,UNI50,UNI50,1
+Kleinspecht,0.232,1,uni50,0.424,Lesser Sp. Woodp.,Dryobates minor,UNI50,UNI50,0
+Kohlmeise,0.968,0.623711340206186,uni50,0.881927835051546,Great Tit,Parus major,UNI50,UNI50,1
+Kolkrabe,0.976,0.616161616161616,uni50,0.886040404040404,Common Raven,Corvus corax,UNI50,UNI50,1
+Kranich,0.0967741935483871,0.857142857142857,uni50,0.286866359447005,Common Crane,Grus grus,UNI50,UNI50,0
+Mauersegler,0.0442477876106195,1,uni50,0.283185840707965,Common Swift,Apus apus,UNI50,UNI50,0
+Misteldrossel,0.696,0.852941176470588,uni50,0.735235294117647,Mistle Thrush,Turdus viscivorus,UNI50,UNI50,0
+Mittelspecht,0.256,0.914285714285714,uni50,0.420571428571429,Middle Sp. Woodp.,Dendrocoptes medius,UNI50,UNI50,0
+Mäusebussard,0.416,0.825396825396825,uni50,0.518349206349206,Common Buzzard,Buteo buteo,UNI50,UNI50,0
+Mönchsgrasmücke,0.936,0.73125,uni50,0.8848125,Eur. Blackcap,Sylvia atricapilla,UNI50,UNI50,1
+Pirol,0.104,1,uni50,0.328,Eur. Gold. Oriole,Oriolus oriolus,UNI50,UNI50,0
+Rabenkrähe,0.876543209876543,0.669811320754717,uni50,0.824860237596087,Carrion Crow,Corvus corone,UNI50,UNI50,0
+Ringeltaube,0.992,0.610837438423645,uni50,0.896709359605911,Com. Wood-Pigeon,Columba palumbus,UNI50,UNI50,1
+Rotdrossel,0.72,0.927835051546392,uni50,0.771958762886598,Redwing,Turdus iliacus,UNI50,UNI50,0
+Rotkehlchen,0.992,0.62,uni50,0.899,Europ. Robin,Erithacus rubecula,UNI50,UNI50,1
+Rotmilan,0.096,1,uni50,0.322,Red Kite,Milvus milvus,UNI50,UNI50,0
+Schwanzmeise,0.12,0.833333333333333,uni50,0.298333333333333,Long-tailed Tit,Aegithalos caudatus,UNI50,UNI50,0
+Schwarzspecht,0.664,0.954022988505747,uni50,0.736505747126437,Black Woodp.,Dryocopus martius,UNI50,UNI50,0
+Singdrossel,1,0.595238095238095,uni50,0.898809523809524,Song Thrush,Turdus philomelos,UNI50,UNI50,1
+Sommergoldhähnchen,0.608,0.91566265060241,uni50,0.684915662650602,Common Firecrest,Regulus ignicapilla,UNI50,UNI50,0
+Sperlingskauz,0.072,0.9,uni50,0.279,Eur. Pygmy-Owl,Glaucidium passerinum,UNI50,UNI50,0
+Star,0.976,0.648936170212766,uni50,0.894234042553192,Europ. Starling,Sturnus vulgaris,UNI50,UNI50,1
+Stieglitz,0.144,0.857142857142857,uni50,0.322285714285714,Europ. Goldfinch,Carduelis carduelis,UNI50,UNI50,0
+Stockente,0.555555555555556,0.769230769230769,uni50,0.608974358974359,Mallard,Anas platyrhynchos,UNI50,UNI50,0
+Sumpfmeise,0.56,0.786516853932584,uni50,0.616629213483146,Marsh Tit,Poecile palustris,UNI50,UNI50,0
+Tannenmeise,0.728,0.771186440677966,uni50,0.738796610169492,Coal Tit,Periparus ater,UNI50,UNI50,0
+Trauerschnäpper,0.896,0.736842105263158,uni50,0.85621052631579,Eur. Pied Flycatcher,Ficedula hypoleuca,UNI50,UNI50,0
+Wacholderdrossel,0.12,0.75,uni50,0.2775,Fieldfare,Turdus pilaris,UNI50,UNI50,0
+Wachtel,0.355932203389831,1,uni50,0.516949152542373,Common Quail,Coturnix coturnix,UNI50,UNI50,0
+Waldbaumläufer,0.304,0.95,uni50,0.4655,Eur. Treecreeper,Certhia familiaris,UNI50,UNI50,0
+Waldkauz,0.968,0.6875,uni50,0.897875,Tawny Owl,Strix aluco,UNI50,UNI50,1
+Waldlaubsänger,0.864,0.84375,uni50,0.8589375,Wood Warbler,Phylloscopus sibilatrix,UNI50,UNI50,0
+Waldschnepfe,0.087378640776699,1,uni50,0.315533980582524,Eur. Woodcock,Scolopax rusticola,UNI50,UNI50,0
+Wendehals,0.742857142857143,0.962962962962963,uni50,0.797883597883598,Eur. Wryneck,Jynx torquilla,UNI50,UNI50,0
+Wintergoldhähnchen,0.024,1,uni50,0.268,Goldcrest,Regulus regulus,UNI50,UNI50,0
+Zaunkönig,0.992,0.639175257731959,uni50,0.90379381443299,Eur. Wren,Troglodytes troglodytes,UNI50,UNI50,1
+Zilpzalp,0.664,0.67479674796748,uni50,0.66669918699187,Com. Chiffchaff,Phylloscopus collybita,UNI50,UNI50,0
+Amsel,1,0.111607142857143,uni90,0.777901785714286,Eur. Blackbird,Turdus merula,UNI90,UNI90,1
+Baumpieper,0.16,0.666666666666667,uni90,0.286666666666667,Tree Pipit,Anthus trivialis,UNI90,UNI90,0
+Bergfink,0.96,0.324324324324324,uni90,0.801081081081081,Brambling,Fringilla montifringilla,UNI90,UNI90,1
+Blaumeise,1,0.117924528301887,uni90,0.779481132075472,Eur. Blue Tit,Cyanistes caeruleus,UNI90,UNI90,1
+Buchfink,1,0.114155251141553,uni90,0.778538812785388,Common Chaffinch,Fringilla coelebs,UNI90,UNI90,1
+Buntspecht,1,0.130208333333333,uni90,0.782552083333333,Great Sp. Woodp.,Dendrocopos major,UNI90,UNI90,1
+Eichelhäher,1,0.168918918918919,uni90,0.79222972972973,Eur. Jay,Garrulus glandarius,UNI90,UNI90,1
+Erlenzeisig,0.92,0.212962962962963,uni90,0.743240740740741,Eurasian Siskin,Spinus spinus,UNI90,UNI90,1
+Feldlerche,0,1,uni90,0.25,Eur. Skylark,Alauda arvensis,UNI90,UNI90,0
+Fichtenkreuzschnabel,0.08,0.333333333333333,uni90,0.143333333333333,Red Crossbill,Loxia curvirostra,UNI90,UNI90,0
+Fitis,0.19047619047619,0.5,uni90,0.267857142857143,Willow Warbler,Phylloscopus trochilus,UNI90,UNI90,0
+Gartenbaumläufer,0.12,0.3,uni90,0.165,Short-toed Treecr.,Certhia brachydactyla,UNI90,UNI90,0
+Gartenrotschwanz,0.36,0.428571428571429,uni90,0.377142857142857,Com. Redstart,Phoenicurus phoenicurus,UNI90,UNI90,0
+Gimpel,0.44,0.846153846153846,uni90,0.541538461538462,Eur. Bullfinch,Pyrrhula pyrrhula,UNI90,UNI90,0
+Graureiher,0.652173913043478,0.714285714285714,uni90,0.667701863354037,Gray Heron,Ardea cinerea,UNI90,UNI90,0
+Grauschnäpper,0.72,0.409090909090909,uni90,0.642272727272727,Spotted Flyc.,Muscicapa striata,UNI90,UNI90,0
+Grauspecht,0.72,0.514285714285714,uni90,0.668571428571429,Gray-h. Woodp.,Picus canus,UNI90,UNI90,0
+Grünspecht,0.96,0.210526315789474,uni90,0.772631578947368,Eur. Green Woodp.,Picus viridis,UNI90,UNI90,1
+Habicht,0.4,1,uni90,0.55,Northern Goshawk,Accipiter gentilis,UNI90,UNI90,0
+Halsbandschnäpper,0.28,0.583333333333333,uni90,0.355833333333333,Col. Flycatcher,Ficedula albicollis,UNI90,UNI90,0
+Haubenmeise,0.16,0.8,uni90,0.32,Crested Tit,Lophophanes cristatus,UNI90,UNI90,0
+Heckenbraunelle,0.52,0.5,uni90,0.515,Dunnock,Prunella modularis,UNI90,UNI90,0
+Hohltaube,0.96,0.406779661016949,uni90,0.821694915254237,Stock Dove,Columba oenas,UNI90,UNI90,1
+Kernbeißer,1,0.125628140703518,uni90,0.781407035175879,Hawfinch,Coccothraustes coccothraustes,UNI90,UNI90,1
+Kleiber,1,0.121359223300971,uni90,0.780339805825243,Eur. Nuthatch,Sitta europaea,UNI90,UNI90,1
+Kleinspecht,0.72,0.620689655172414,uni90,0.695172413793103,Lesser Sp. Woodp.,Dryobates minor,UNI90,UNI90,0
+Kohlmeise,1,0.128865979381443,uni90,0.782216494845361,Great Tit,Parus major,UNI90,UNI90,1
+Kolkrabe,1,0.126262626262626,uni90,0.781565656565657,Common Raven,Corvus corax,UNI90,UNI90,1
+Kranich,0.714285714285714,0.714285714285714,uni90,0.714285714285714,Common Crane,Grus grus,UNI90,UNI90,0
+Mauersegler,0.230769230769231,0.6,uni90,0.323076923076923,Common Swift,Apus apus,UNI90,UNI90,0
+Misteldrossel,0.88,0.215686274509804,uni90,0.713921568627451,Mistle Thrush,Turdus viscivorus,UNI90,UNI90,0
+Mittelspecht,0.72,0.514285714285714,uni90,0.668571428571429,Middle Sp. Woodp.,Dendrocoptes medius,UNI90,UNI90,0
+Mäusebussard,0.52,0.206349206349206,uni90,0.441587301587302,Common Buzzard,Buteo buteo,UNI90,UNI90,0
+Mönchsgrasmücke,1,0.15625,uni90,0.7890625,Eur. Blackcap,Sylvia atricapilla,UNI90,UNI90,1
+Pirol,0.4,0.769230769230769,uni90,0.492307692307692,Eur. Gold. Oriole,Oriolus oriolus,UNI90,UNI90,0
+Rabenkrähe,0,1,uni90,0.25,Carrion Crow,Corvus corone,UNI90,UNI90,0
+Ringeltaube,1,0.123152709359606,uni90,0.780788177339901,Com. Wood-Pigeon,Columba palumbus,UNI90,UNI90,1
+Rotdrossel,0.96,0.247422680412371,uni90,0.781855670103093,Redwing,Turdus iliacus,UNI90,UNI90,1
+Rotkehlchen,1,0.125,uni90,0.78125,Europ. Robin,Erithacus rubecula,UNI90,UNI90,1
+Rotmilan,0.4,0.833333333333333,uni90,0.508333333333333,Red Kite,Milvus milvus,UNI90,UNI90,0
+Schwanzmeise,0.4,0.555555555555556,uni90,0.438888888888889,Long-tailed Tit,Aegithalos caudatus,UNI90,UNI90,0
+Schwarzspecht,0.96,0.275862068965517,uni90,0.788965517241379,Black Woodp.,Dryocopus martius,UNI90,UNI90,1
+Singdrossel,1,0.119047619047619,uni90,0.779761904761905,Song Thrush,Turdus philomelos,UNI90,UNI90,1
+Sommergoldhähnchen,1,0.301204819277108,uni90,0.825301204819277,Common Firecrest,Regulus ignicapilla,UNI90,UNI90,1
+Sperlingskauz,0.2,0.5,uni90,0.275,Eur. Pygmy-Owl,Glaucidium passerinum,UNI90,UNI90,0
+Star,1,0.132978723404255,uni90,0.783244680851064,Europ. Starling,Sturnus vulgaris,UNI90,UNI90,1
+Stieglitz,0.36,0.428571428571429,uni90,0.377142857142857,Europ. Goldfinch,Carduelis carduelis,UNI90,UNI90,0
+Stockente,1,0.615384615384615,uni90,0.903846153846154,Mallard,Anas platyrhynchos,UNI90,UNI90,1
+Sumpfmeise,0.6,0.168539325842697,uni90,0.492134831460674,Marsh Tit,Poecile palustris,UNI90,UNI90,0
+Tannenmeise,0.92,0.194915254237288,uni90,0.738728813559322,Coal Tit,Periparus ater,UNI90,UNI90,1
+Trauerschnäpper,1,0.164473684210526,uni90,0.791118421052632,Eur. Pied Flycatcher,Ficedula hypoleuca,UNI90,UNI90,1
+Wacholderdrossel,0.25,0.25,uni90,0.25,Fieldfare,Turdus pilaris,UNI90,UNI90,0
+Wachtel,0.761904761904762,0.761904761904762,uni90,0.761904761904762,Common Quail,Coturnix coturnix,UNI90,UNI90,0
+Waldbaumläufer,0.92,0.575,uni90,0.83375,Eur. Treecreeper,Certhia familiaris,UNI90,UNI90,1
+Waldkauz,1,0.142045454545455,uni90,0.785511363636364,Tawny Owl,Strix aluco,UNI90,UNI90,1
+Waldlaubsänger,1,0.1953125,uni90,0.798828125,Wood Warbler,Phylloscopus sibilatrix,UNI90,UNI90,1
+Waldschnepfe,0.28,0.777777777777778,uni90,0.404444444444445,Eur. Woodcock,Scolopax rusticola,UNI90,UNI90,0
+Wendehals,0.944444444444444,0.62962962962963,uni90,0.865740740740741,Eur. Wryneck,Jynx torquilla,UNI90,UNI90,1
+Wintergoldhähnchen,0.04,0.333333333333333,uni90,0.113333333333333,Goldcrest,Regulus regulus,UNI90,UNI90,0
+Zaunkönig,1,0.128865979381443,uni90,0.782216494845361,Eur. Wren,Troglodytes troglodytes,UNI90,UNI90,1
+Zilpzalp,0.84,0.170731707317073,uni90,0.672682926829268,Com. Chiffchaff,Phylloscopus collybita,UNI90,UNI90,0
+Amsel,0.995555555555556,1,logi,0.996666666666667,Eur. Blackbird,Turdus merula,Logistic reg.,Logistic reg.,1
+Baumpieper,0.0266666666666667,1,logi,0.27,Tree Pipit,Anthus trivialis,Logistic reg.,Logistic reg.,0
+Bergfink,1,0.310810810810811,logi,0.827702702702703,Brambling,Fringilla montifringilla,Logistic reg.,Logistic reg.,1
+Blaumeise,1,0.886792452830189,logi,0.971698113207547,Eur. Blue Tit,Cyanistes caeruleus,Logistic reg.,Logistic reg.,1
+Buchfink,0.985221674876847,0.91324200913242,logi,0.96722675844074,Common Chaffinch,Fringilla coelebs,Logistic reg.,Logistic reg.,1
+Buntspecht,0.988505747126437,0.895833333333333,logi,0.965337643678161,Great Sp. Woodp.,Dendrocopos major,Logistic reg.,Logistic reg.,1
+Eichelhäher,0.955056179775281,0.574324324324324,logi,0.859873215912542,Eur. Jay,Garrulus glandarius,Logistic reg.,Logistic reg.,1
+Erlenzeisig,0.92,0.212962962962963,logi,0.743240740740741,Eurasian Siskin,Spinus spinus,Logistic reg.,Logistic reg.,1
+Feldlerche,0.04,1,logi,0.28,Eur. Skylark,Alauda arvensis,Logistic reg.,Logistic reg.,0
+Fichtenkreuzschnabel,0.0266666666666667,1,logi,0.27,Red Crossbill,Loxia curvirostra,Logistic reg.,Logistic reg.,0
+Fitis,0.0361990950226244,1,logi,0.277149321266968,Willow Warbler,Phylloscopus trochilus,Logistic reg.,Logistic reg.,0
+Gartenbaumläufer,0.0444444444444444,1,logi,0.283333333333333,Short-toed Treecr.,Certhia brachydactyla,Logistic reg.,Logistic reg.,0
+Gartenrotschwanz,0.0933333333333333,1,logi,0.32,Com. Redstart,Phoenicurus phoenicurus,Logistic reg.,Logistic reg.,0
+Gimpel,0.75,0.230769230769231,logi,0.620192307692308,Eur. Bullfinch,Pyrrhula pyrrhula,Logistic reg.,Logistic reg.,0
+Graureiher,0.705882352941177,0.571428571428571,logi,0.672268907563026,Gray Heron,Ardea cinerea,Logistic reg.,Logistic reg.,0
+Grauschnäpper,0.75,0.340909090909091,logi,0.647727272727273,Spotted Flyc.,Muscicapa striata,Logistic reg.,Logistic reg.,0
+Grauspecht,0.155555555555556,1,logi,0.366666666666667,Gray-h. Woodp.,Picus canus,Logistic reg.,Logistic reg.,0
+Grünspecht,0.967741935483871,0.263157894736842,logi,0.791595925297114,Eur. Green Woodp.,Picus viridis,Logistic reg.,Logistic reg.,1
+Habicht,1,0.5,logi,0.875,Northern Goshawk,Accipiter gentilis,Logistic reg.,Logistic reg.,1
+Halsbandschnäpper,0.0533333333333333,1,logi,0.29,Col. Flycatcher,Ficedula albicollis,Logistic reg.,Logistic reg.,0
+Haubenmeise,0.0222222222222222,1,logi,0.266666666666667,Crested Tit,Lophophanes cristatus,Logistic reg.,Logistic reg.,0
+Heckenbraunelle,1,0.0384615384615385,logi,0.759615384615385,Dunnock,Prunella modularis,Logistic reg.,Logistic reg.,1
+Hohltaube,1,0.203389830508475,logi,0.800847457627119,Stock Dove,Columba oenas,Logistic reg.,Logistic reg.,1
+Kernbeißer,0.955414012738854,0.753768844221106,logi,0.905002720609417,Hawfinch,Coccothraustes coccothraustes,Logistic reg.,Logistic reg.,1
+Kleiber,0.945945945945946,0.679611650485437,logi,0.879362372080819,Eur. Nuthatch,Sitta europaea,Logistic reg.,Logistic reg.,1
+Kleinspecht,0.128888888888889,1,logi,0.346666666666667,Lesser Sp. Woodp.,Dryobates minor,Logistic reg.,Logistic reg.,0
+Kohlmeise,0.973154362416107,0.747422680412371,logi,0.916721441915173,Great Tit,Parus major,Logistic reg.,Logistic reg.,1
+Kolkrabe,0.962686567164179,0.651515151515152,logi,0.884893713251922,Common Raven,Corvus corax,Logistic reg.,Logistic reg.,1
+Kranich,1,0.142857142857143,logi,0.785714285714286,Common Crane,Grus grus,Logistic reg.,Logistic reg.,1
+Mauersegler,0.0234741784037559,1,logi,0.267605633802817,Common Swift,Apus apus,Logistic reg.,Logistic reg.,0
+Misteldrossel,0.875,0.137254901960784,logi,0.690563725490196,Mistle Thrush,Turdus viscivorus,Logistic reg.,Logistic reg.,0
+Mittelspecht,0.155555555555556,1,logi,0.366666666666667,Middle Sp. Woodp.,Dendrocoptes medius,Logistic reg.,Logistic reg.,0
+Mäusebussard,0.5,0.142857142857143,logi,0.410714285714286,Common Buzzard,Buteo buteo,Logistic reg.,Logistic reg.,0
+Mönchsgrasmücke,0.99,0.61875,logi,0.8971875,Eur. Blackcap,Sylvia atricapilla,Logistic reg.,Logistic reg.,1
+Pirol,0.0577777777777778,1,logi,0.293333333333333,Eur. Gold. Oriole,Oriolus oriolus,Logistic reg.,Logistic reg.,0
+Rabenkrähe,1,0.39622641509434,logi,0.849056603773585,Carrion Crow,Corvus corone,Logistic reg.,Logistic reg.,1
+Ringeltaube,0.975308641975309,0.778325123152709,logi,0.926062762269659,Com. Wood-Pigeon,Columba palumbus,Logistic reg.,Logistic reg.,1
+Rotdrossel,0.964285714285714,0.278350515463918,logi,0.792801914580265,Redwing,Turdus iliacus,Logistic reg.,Logistic reg.,1
+Rotkehlchen,0.993333333333333,0.745,logi,0.93125,Europ. Robin,Erithacus rubecula,Logistic reg.,Logistic reg.,1
+Rotmilan,0.75,0.25,logi,0.625,Red Kite,Milvus milvus,Logistic reg.,Logistic reg.,0
+Schwanzmeise,0.08,1,logi,0.31,Long-tailed Tit,Aegithalos caudatus,Logistic reg.,Logistic reg.,0
+Schwarzspecht,0.96,0.275862068965517,logi,0.788965517241379,Black Woodp.,Dryocopus martius,Logistic reg.,Logistic reg.,1
+Singdrossel,0.98314606741573,0.833333333333333,logi,0.945692883895131,Song Thrush,Turdus philomelos,Logistic reg.,Logistic reg.,1
+Sommergoldhähnchen,1,0.253012048192771,logi,0.813253012048193,Common Firecrest,Regulus ignicapilla,Logistic reg.,Logistic reg.,1
+Sperlingskauz,0.0444444444444444,1,logi,0.283333333333333,Eur. Pygmy-Owl,Glaucidium passerinum,Logistic reg.,Logistic reg.,0
+Star,0.977099236641221,0.680851063829787,logi,0.903037193438362,Europ. Starling,Sturnus vulgaris,Logistic reg.,Logistic reg.,1
+Stieglitz,0.0933333333333333,1,logi,0.32,Europ. Goldfinch,Carduelis carduelis,Logistic reg.,Logistic reg.,0
+Stockente,1,0.461538461538462,logi,0.865384615384616,Mallard,Anas platyrhynchos,Logistic reg.,Logistic reg.,1
+Sumpfmeise,0.608695652173913,0.157303370786517,logi,0.495847581827064,Marsh Tit,Poecile palustris,Logistic reg.,Logistic reg.,0
+Tannenmeise,1,0.0677966101694915,logi,0.766949152542373,Coal Tit,Periparus ater,Logistic reg.,Logistic reg.,1
+Trauerschnäpper,0.939759036144578,0.513157894736842,logi,0.833108750792644,Eur. Pied Flycatcher,Ficedula hypoleuca,Logistic reg.,Logistic reg.,1
+Wacholderdrossel,0.054421768707483,1,logi,0.290816326530612,Fieldfare,Turdus pilaris,Logistic reg.,Logistic reg.,0
+Wachtel,0.923076923076923,0.571428571428571,logi,0.835164835164835,Common Quail,Coturnix coturnix,Logistic reg.,Logistic reg.,1
+Waldbaumläufer,0.846153846153846,0.275,logi,0.703365384615385,Eur. Treecreeper,Certhia familiaris,Logistic reg.,Logistic reg.,0
+Waldkauz,0.964601769911504,0.619318181818182,logi,0.878280872888174,Tawny Owl,Strix aluco,Logistic reg.,Logistic reg.,1
+Waldlaubsänger,0.974025974025974,0.5859375,logi,0.877003855519481,Wood Warbler,Phylloscopus sibilatrix,Logistic reg.,Logistic reg.,1
+Waldschnepfe,0.0443349753694581,1,logi,0.283251231527094,Eur. Woodcock,Scolopax rusticola,Logistic reg.,Logistic reg.,0
+Wendehals,0.947368421052632,0.666666666666667,logi,0.877192982456141,Eur. Wryneck,Jynx torquilla,Logistic reg.,Logistic reg.,1
+Wintergoldhähnchen,0.0133333333333333,1,logi,0.26,Goldcrest,Regulus regulus,Logistic reg.,Logistic reg.,0
+Zaunkönig,0.99290780141844,0.721649484536083,logi,0.925093222197851,Eur. Wren,Troglodytes troglodytes,Logistic reg.,Logistic reg.,1
+Zilpzalp,0.75,0.0487804878048781,logi,0.57469512195122,Com. Chiffchaff,Phylloscopus collybita,Logistic reg.,Logistic reg.,0
+Amsel,0.995555555555556,1,base,0.996666666666667,Eur. Blackbird,Turdus merula,CIT Basic,CIT Basic,1
+Baumpieper,0.3,0.5,base,0.35,Tree Pipit,Anthus trivialis,CIT Basic,CIT Basic,0
+Bergfink,0.682352941176471,0.783783783783784,base,0.707710651828299,Brambling,Fringilla montifringilla,CIT Basic,CIT Basic,0
+Blaumeise,1,0.89622641509434,base,0.974056603773585,Eur. Blue Tit,Cyanistes caeruleus,CIT Basic,CIT Basic,1
+Buchfink,0.986238532110092,0.981735159817352,base,0.985112689036907,Common Chaffinch,Fringilla coelebs,CIT Basic,CIT Basic,1
+Buntspecht,0.964467005076142,0.989583333333333,base,0.97074608714044,Great Sp. Woodp.,Dendrocopos major,CIT Basic,CIT Basic,1
+Eichelhäher,0.865030674846626,0.952702702702703,base,0.886948681810645,Eur. Jay,Garrulus glandarius,CIT Basic,CIT Basic,0
+Erlenzeisig,0.626582278481013,0.916666666666667,base,0.699103375527426,Eurasian Siskin,Spinus spinus,CIT Basic,CIT Basic,0
+Feldlerche,0.105263157894737,1,base,0.328947368421053,Eur. Skylark,Alauda arvensis,CIT Basic,CIT Basic,0
+Fichtenkreuzschnabel,0.102040816326531,0.833333333333333,base,0.284863945578232,Red Crossbill,Loxia curvirostra,CIT Basic,CIT Basic,0
+Fitis,0.333333333333333,0.375,base,0.34375,Willow Warbler,Phylloscopus trochilus,CIT Basic,CIT Basic,0
+Gartenbaumläufer,0.126582278481013,1,base,0.34493670886076,Short-toed Treecr.,Certhia brachydactyla,CIT Basic,CIT Basic,0
+Gartenrotschwanz,0.888888888888889,0.380952380952381,base,0.761904761904762,Com. Redstart,Phoenicurus phoenicurus,CIT Basic,CIT Basic,0
+Gimpel,0.727272727272727,0.615384615384615,base,0.699300699300699,Eur. Bullfinch,Pyrrhula pyrrhula,CIT Basic,CIT Basic,0
+Graureiher,0.666666666666667,0.857142857142857,base,0.714285714285715,Gray Heron,Ardea cinerea,CIT Basic,CIT Basic,0
+Grauschnäpper,0.72,0.409090909090909,base,0.642272727272727,Spotted Flyc.,Muscicapa striata,CIT Basic,CIT Basic,0
+Grauspecht,0.595744680851064,0.8,base,0.646808510638298,Gray-h. Woodp.,Picus canus,CIT Basic,CIT Basic,0
+Grünspecht,0.753846153846154,0.859649122807018,base,0.78029689608637,Eur. Green Woodp.,Picus viridis,CIT Basic,CIT Basic,0
+Habicht,0.777777777777778,0.7,base,0.758333333333334,Northern Goshawk,Accipiter gentilis,CIT Basic,CIT Basic,0
+Halsbandschnäpper,0.777777777777778,0.583333333333333,base,0.729166666666667,Col. Flycatcher,Ficedula albicollis,CIT Basic,CIT Basic,0
+Haubenmeise,0.222222222222222,0.8,base,0.366666666666666,Crested Tit,Lophophanes cristatus,CIT Basic,CIT Basic,0
+Heckenbraunelle,0.909090909090909,0.384615384615385,base,0.777972027972028,Dunnock,Prunella modularis,CIT Basic,CIT Basic,1
+Hohltaube,0.886363636363636,0.661016949152542,base,0.830026964560863,Stock Dove,Columba oenas,CIT Basic,CIT Basic,0
+Kernbeißer,0.964285714285714,0.949748743718593,base,0.960651471643934,Hawfinch,Coccothraustes coccothraustes,CIT Basic,CIT Basic,1
+Kleiber,0.944186046511628,0.985436893203883,base,0.954498758184692,Eur. Nuthatch,Sitta europaea,CIT Basic,CIT Basic,1
+Kleinspecht,0.676470588235294,0.793103448275862,base,0.705628803245436,Lesser Sp. Woodp.,Dryobates minor,CIT Basic,CIT Basic,0
+Kohlmeise,0.935643564356436,0.974226804123711,base,0.945289374298255,Great Tit,Parus major,CIT Basic,CIT Basic,1
+Kolkrabe,0.991525423728813,0.590909090909091,base,0.891371340523883,Common Raven,Corvus corax,CIT Basic,CIT Basic,1
+Kranich,0.714285714285714,0.714285714285714,base,0.714285714285714,Common Crane,Grus grus,CIT Basic,CIT Basic,0
+Mauersegler,0.428571428571429,0.6,base,0.471428571428572,Common Swift,Apus apus,CIT Basic,CIT Basic,0
+Misteldrossel,0.783505154639175,0.745098039215686,base,0.773903375783303,Mistle Thrush,Turdus viscivorus,CIT Basic,CIT Basic,0
+Mittelspecht,0.724137931034483,0.6,base,0.693103448275862,Middle Sp. Woodp.,Dendrocoptes medius,CIT Basic,CIT Basic,0
+Mäusebussard,0.41958041958042,0.952380952380952,base,0.552780552780553,Common Buzzard,Buteo buteo,CIT Basic,CIT Basic,0
+Mönchsgrasmücke,0.918367346938776,0.84375,base,0.899713010204082,Eur. Blackcap,Sylvia atricapilla,CIT Basic,CIT Basic,1
+Pirol,0.666666666666667,0.461538461538462,base,0.615384615384616,Eur. Gold. Oriole,Oriolus oriolus,CIT Basic,CIT Basic,0
+Rabenkrähe,0.763358778625954,0.943396226415094,base,0.808368140573239,Carrion Crow,Corvus corone,CIT Basic,CIT Basic,0
+Ringeltaube,0.965,0.950738916256158,base,0.961434729064039,Com. Wood-Pigeon,Columba palumbus,CIT Basic,CIT Basic,1
+Rotdrossel,0.824742268041237,0.824742268041237,base,0.824742268041237,Redwing,Turdus iliacus,CIT Basic,CIT Basic,0
+Rotkehlchen,0.993377483443709,0.75,base,0.932533112582782,Europ. Robin,Erithacus rubecula,CIT Basic,CIT Basic,1
+Rotmilan,0.5625,0.75,base,0.609375,Red Kite,Milvus milvus,CIT Basic,CIT Basic,0
+Schwanzmeise,0.588235294117647,0.555555555555556,base,0.580065359477124,Long-tailed Tit,Aegithalos caudatus,CIT Basic,CIT Basic,0
+Schwarzspecht,0.669291338582677,0.977011494252874,base,0.746221377500226,Black Woodp.,Dryocopus martius,CIT Basic,CIT Basic,0
+Singdrossel,0.994285714285714,0.828571428571429,base,0.952857142857143,Song Thrush,Turdus philomelos,CIT Basic,CIT Basic,1
+Sommergoldhähnchen,0.921875,0.710843373493976,base,0.869117093373494,Common Firecrest,Regulus ignicapilla,CIT Basic,CIT Basic,1
+Sperlingskauz,0.217391304347826,0.5,base,0.28804347826087,Eur. Pygmy-Owl,Glaucidium passerinum,CIT Basic,CIT Basic,0
+Star,0.952095808383234,0.845744680851064,base,0.925508026500192,Europ. Starling,Sturnus vulgaris,CIT Basic,CIT Basic,1
+Stieglitz,0.32,0.761904761904762,base,0.43047619047619,Europ. Goldfinch,Carduelis carduelis,CIT Basic,CIT Basic,0
+Stockente,1,0.615384615384615,base,0.903846153846154,Mallard,Anas platyrhynchos,CIT Basic,CIT Basic,1
+Sumpfmeise,0.533333333333333,0.898876404494382,base,0.624719101123595,Marsh Tit,Poecile palustris,CIT Basic,CIT Basic,0
+Tannenmeise,0.822916666666667,0.669491525423729,base,0.784560381355932,Coal Tit,Periparus ater,CIT Basic,CIT Basic,0
+Trauerschnäpper,0.88,0.868421052631579,base,0.877105263157895,Eur. Pied Flycatcher,Ficedula hypoleuca,CIT Basic,CIT Basic,0
+Wacholderdrossel,0.206896551724138,0.75,base,0.342672413793104,Fieldfare,Turdus pilaris,CIT Basic,CIT Basic,0
+Wachtel,0.782608695652174,0.857142857142857,base,0.801242236024845,Common Quail,Coturnix coturnix,CIT Basic,CIT Basic,0
+Waldbaumläufer,0.885714285714286,0.775,base,0.858035714285714,Eur. Treecreeper,Certhia familiaris,CIT Basic,CIT Basic,0
+Waldkauz,0.96551724137931,0.795454545454545,base,0.923001567398119,Tawny Owl,Strix aluco,CIT Basic,CIT Basic,1
+Waldlaubsänger,0.835616438356164,0.953125,base,0.864993578767123,Wood Warbler,Phylloscopus sibilatrix,CIT Basic,CIT Basic,0
+Waldschnepfe,0.5,0.555555555555556,base,0.513888888888889,Eur. Woodcock,Scolopax rusticola,CIT Basic,CIT Basic,0
+Wendehals,0.925925925925926,0.925925925925926,base,0.925925925925926,Eur. Wryneck,Jynx torquilla,CIT Basic,CIT Basic,1
+Wintergoldhähnchen,0.0133333333333333,1,base,0.26,Goldcrest,Regulus regulus,CIT Basic,CIT Basic,0
+Zaunkönig,0.986486486486486,0.752577319587629,base,0.928009194761772,Eur. Wren,Troglodytes troglodytes,CIT Basic,CIT Basic,1
+Zilpzalp,0.66,0.804878048780488,base,0.696219512195122,Com. Chiffchaff,Phylloscopus collybita,CIT Basic,CIT Basic,0
+Amsel,0.995555555555556,1,opti,0.996666666666667,Eur. Blackbird,Turdus merula,CIT Optimised,CIT Optimised,1
+Baumpieper,0.75,1,opti,0.8125,Tree Pipit,Anthus trivialis,CIT Optimised,CIT Optimised,0
+Bergfink,1,0.364864864864865,opti,0.841216216216216,Brambling,Fringilla montifringilla,CIT Optimised,CIT Optimised,1
+Blaumeise,0.994974874371859,0.933962264150943,opti,0.97972172181663,Eur. Blue Tit,Cyanistes caeruleus,CIT Optimised,CIT Optimised,1
+Buchfink,0.986238532110092,0.981735159817352,opti,0.985112689036907,Common Chaffinch,Fringilla coelebs,CIT Optimised,CIT Optimised,1
+Buntspecht,0.978947368421053,0.96875,opti,0.97639802631579,Great Sp. Woodp.,Dendrocopos major,CIT Optimised,CIT Optimised,1
+Eichelhäher,0.953125,0.824324324324324,opti,0.920924831081081,Eur. Jay,Garrulus glandarius,CIT Optimised,CIT Optimised,1
+Erlenzeisig,1,0.287037037037037,opti,0.821759259259259,Eurasian Siskin,Spinus spinus,CIT Optimised,CIT Optimised,1
+Feldlerche,0.285714285714286,1,opti,0.464285714285715,Eur. Skylark,Alauda arvensis,CIT Optimised,CIT Optimised,0
+Fichtenkreuzschnabel,0.571428571428571,0.666666666666667,opti,0.595238095238095,Red Crossbill,Loxia curvirostra,CIT Optimised,CIT Optimised,0
+Fitis,0.428571428571429,0.375,opti,0.415178571428572,Willow Warbler,Phylloscopus trochilus,CIT Optimised,CIT Optimised,0
+Gartenbaumläufer,0.714285714285714,0.5,opti,0.660714285714286,Short-toed Treecr.,Certhia brachydactyla,CIT Optimised,CIT Optimised,0
+Gartenrotschwanz,1,0.952380952380952,opti,0.988095238095238,Com. Redstart,Phoenicurus phoenicurus,CIT Optimised,CIT Optimised,1
+Gimpel,0.875,0.538461538461538,opti,0.790865384615385,Eur. Bullfinch,Pyrrhula pyrrhula,CIT Optimised,CIT Optimised,0
+Graureiher,0.882352941176471,0.714285714285714,opti,0.840336134453782,Gray Heron,Ardea cinerea,CIT Optimised,CIT Optimised,0
+Grauschnäpper,1,0.295454545454545,opti,0.823863636363636,Spotted Flyc.,Muscicapa striata,CIT Optimised,CIT Optimised,1
+Grauspecht,0.952380952380952,0.571428571428571,opti,0.857142857142857,Gray-h. Woodp.,Picus canus,CIT Optimised,CIT Optimised,1
+Grünspecht,0.963414634146341,0.692982456140351,opti,0.895806589644844,Eur. Green Woodp.,Picus viridis,CIT Optimised,CIT Optimised,1
+Habicht,1,0.7,opti,0.925,Northern Goshawk,Accipiter gentilis,CIT Optimised,CIT Optimised,1
+Halsbandschnäpper,0.916666666666667,0.916666666666667,opti,0.916666666666667,Col. Flycatcher,Ficedula albicollis,CIT Optimised,CIT Optimised,1
+Haubenmeise,0.5,0.8,opti,0.575,Crested Tit,Lophophanes cristatus,CIT Optimised,CIT Optimised,0
+Heckenbraunelle,1,0.5,opti,0.875,Dunnock,Prunella modularis,CIT Optimised,CIT Optimised,1
+Hohltaube,0.958333333333333,0.779661016949153,opti,0.913665254237288,Stock Dove,Columba oenas,CIT Optimised,CIT Optimised,1
+Kernbeißer,0.964285714285714,0.949748743718593,opti,0.960651471643934,Hawfinch,Coccothraustes coccothraustes,CIT Optimised,CIT Optimised,1
+Kleiber,0.961165048543689,0.961165048543689,opti,0.961165048543689,Eur. Nuthatch,Sitta europaea,CIT Optimised,CIT Optimised,1
+Kleinspecht,0.909090909090909,0.689655172413793,opti,0.85423197492163,Lesser Sp. Woodp.,Dryobates minor,CIT Optimised,CIT Optimised,1
+Kohlmeise,0.963157894736842,0.943298969072165,opti,0.958193163320673,Great Tit,Parus major,CIT Optimised,CIT Optimised,1
+Kolkrabe,0.930693069306931,0.949494949494949,opti,0.935393539353936,Common Raven,Corvus corax,CIT Optimised,CIT Optimised,1
+Kranich,0.714285714285714,0.714285714285714,opti,0.714285714285714,Common Crane,Grus grus,CIT Optimised,CIT Optimised,0
+Mauersegler,0.571428571428571,0.8,opti,0.628571428571428,Common Swift,Apus apus,CIT Optimised,CIT Optimised,0
+Misteldrossel,0.905405405405405,0.656862745098039,opti,0.843269740328564,Mistle Thrush,Turdus viscivorus,CIT Optimised,CIT Optimised,1
+Mittelspecht,1,0.428571428571429,opti,0.857142857142857,Middle Sp. Woodp.,Dendrocoptes medius,CIT Optimised,CIT Optimised,1
+Mäusebussard,1,0.206349206349206,opti,0.801587301587302,Common Buzzard,Buteo buteo,CIT Optimised,CIT Optimised,1
+Mönchsgrasmücke,0.976923076923077,0.79375,opti,0.931129807692308,Eur. Blackcap,Sylvia atricapilla,CIT Optimised,CIT Optimised,1
+Pirol,0.857142857142857,0.461538461538462,opti,0.758241758241758,Eur. Gold. Oriole,Oriolus oriolus,CIT Optimised,CIT Optimised,0
+Rabenkrähe,0.983050847457627,0.547169811320755,opti,0.874080588423409,Carrion Crow,Corvus corone,CIT Optimised,CIT Optimised,1
+Ringeltaube,0.984293193717278,0.926108374384236,opti,0.969746988884017,Com. Wood-Pigeon,Columba palumbus,CIT Optimised,CIT Optimised,1
+Rotdrossel,0.971014492753623,0.690721649484536,opti,0.900941281936351,Redwing,Turdus iliacus,CIT Optimised,CIT Optimised,1
+Rotkehlchen,0.978142076502732,0.895,opti,0.957356557377049,Europ. Robin,Erithacus rubecula,CIT Optimised,CIT Optimised,1
+Rotmilan,0.666666666666667,0.666666666666667,opti,0.666666666666667,Red Kite,Milvus milvus,CIT Optimised,CIT Optimised,0
+Schwanzmeise,1,0.611111111111111,opti,0.902777777777778,Long-tailed Tit,Aegithalos caudatus,CIT Optimised,CIT Optimised,1
+Schwarzspecht,1,0.620689655172414,opti,0.905172413793103,Black Woodp.,Dryocopus martius,CIT Optimised,CIT Optimised,1
+Singdrossel,0.975247524752475,0.938095238095238,opti,0.965959453088166,Song Thrush,Turdus philomelos,CIT Optimised,CIT Optimised,1
+Sommergoldhähnchen,1,0.626506024096386,opti,0.906626506024096,Common Firecrest,Regulus ignicapilla,CIT Optimised,CIT Optimised,1
+Sperlingskauz,0.571428571428571,0.4,opti,0.528571428571428,Eur. Pygmy-Owl,Glaucidium passerinum,CIT Optimised,CIT Optimised,0
+Star,1,0.925531914893617,opti,0.981382978723404,Europ. Starling,Sturnus vulgaris,CIT Optimised,CIT Optimised,1
+Stieglitz,0.7,0.333333333333333,opti,0.608333333333333,Europ. Goldfinch,Carduelis carduelis,CIT Optimised,CIT Optimised,0
+Stockente,1,0.769230769230769,opti,0.942307692307692,Mallard,Anas platyrhynchos,CIT Optimised,CIT Optimised,1
+Sumpfmeise,0.875,0.0786516853932584,opti,0.675912921348315,Marsh Tit,Poecile palustris,CIT Optimised,CIT Optimised,0
+Tannenmeise,0.984375,0.533898305084746,opti,0.871755826271187,Coal Tit,Periparus ater,CIT Optimised,CIT Optimised,1
+Trauerschnäpper,0.961832061068702,0.828947368421053,opti,0.92861088790679,Eur. Pied Flycatcher,Ficedula hypoleuca,CIT Optimised,CIT Optimised,1
+Wacholderdrossel,0.428571428571429,0.375,opti,0.415178571428572,Fieldfare,Turdus pilaris,CIT Optimised,CIT Optimised,0
+Wachtel,1,0.666666666666667,opti,0.916666666666667,Common Quail,Coturnix coturnix,CIT Optimised,CIT Optimised,1
+Waldbaumläufer,0.964285714285714,0.675,opti,0.891964285714286,Eur. Treecreeper,Certhia familiaris,CIT Optimised,CIT Optimised,1
+Waldkauz,0.962025316455696,0.863636363636364,opti,0.937428078250863,Tawny Owl,Strix aluco,CIT Optimised,CIT Optimised,1
+Waldlaubsänger,0.921875,0.921875,opti,0.921875,Wood Warbler,Phylloscopus sibilatrix,CIT Optimised,CIT Optimised,1
+Waldschnepfe,0.857142857142857,0.666666666666667,opti,0.80952380952381,Eur. Woodcock,Scolopax rusticola,CIT Optimised,CIT Optimised,0
+Wendehals,0.962962962962963,0.962962962962963,opti,0.962962962962963,Eur. Wryneck,Jynx torquilla,CIT Optimised,CIT Optimised,1
+Wintergoldhähnchen,0.428571428571429,1,opti,0.571428571428572,Goldcrest,Regulus regulus,CIT Optimised,CIT Optimised,0
+Zaunkönig,0.956989247311828,0.917525773195876,opti,0.94712337878284,Eur. Wren,Troglodytes troglodytes,CIT Optimised,CIT Optimised,1
+Zilpzalp,0.954545454545455,0.682926829268293,opti,0.886640798226165,Com. Chiffchaff,Phylloscopus collybita,CIT Optimised,CIT Optimised,1

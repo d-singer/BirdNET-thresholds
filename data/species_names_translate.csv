@@ -1,0 +1,111 @@
+german,english,scientific,shortname,shortgerman,select
+Alpenbirkenzeisig,Lesser Redpoll,Acanthis cabaret,ACCA,Bz,1
+Habicht,Northern Goshawk,Accipiter gentilis,ACGE,Ha,1
+Flussuferläufer,Common Sandpiper,Actitis hypoleucos,ACHY,Ful,1
+Sperber,Eur. Sparrowhawk,Accipiter nisus,ACNI,Sp,1
+Schwanzmeise,Long-tailed Tit,Aegithalos caudatus,AECA,Sm,1
+Raufußkauz,Boreal Owl,Aegolius funereus,AEFU,Rfk,1
+Nilgans,Egyptian Goose,Alopochen aegyptiaca,ALAE,Nig,1
+Feldlerche,Eur. Skylark,Alauda arvensis,ALAR,Fl,1
+Stockente,Mallard,Anas platyrhynchos,ANPL,Sto,1
+Wiesenpieper,Meadow Pipit,Anthus pratensis,ANPR,W,1
+Bergpieper,Water Pipit,Anthus spinoletta,ANSP,Bep,1
+Baumpieper,Tree Pipit,Anthus trivialis,ANTR,Bp,1
+Mauersegler,Common Swift,Apus apus,APAP,Ms,1
+Graureiher,Gray Heron,Ardea cinerea,ARCI,Grr,1
+Waldohreule,Long-eared Owl,Asio otus,ASOT,Wo,1
+Uhu,Eur. Eagle-Owl,Bubo bubo,BUBU,Uh,1
+Mäusebussard,Common Buzzard,Buteo buteo,BUTB,Mb,1
+Stieglitz,Europ. Goldfinch,Carduelis carduelis,CACA,Sti,1
+Kernbeißer,Hawfinch,Coccothraustes coccothraustes,CCOC,Kb,1
+Kolkrabe,Common Raven,Corvus corax,CCOR,Kra,1
+Wachtel,Common Quail,Coturnix coturnix,CCOT,Wa,1
+Gartenbaumläufer,Short-toed Treecr.,Certhia brachydactyla,CEBR,Gb,1
+Waldbaumläufer,Eur. Treecreeper,Certhia familiaris,CEFA,Wb,1
+Grünfink,Europ. Greenfinch,Chloris chloris,CHCH,Gf,1
+Schwarzstorch,Black Stork,Ciconia nigra,CINI,Sst,1
+Rabenkrähe,Carrion Crow,Corvus corone,COCO,Rk,1
+Saatkrähe,Rook,Corvus frugilegus,COFR,Sa,1
+Dohle,Eur. Jackdaw,Corvus monedula,COMO,D,1
+Hohltaube,Stock Dove,Columba oenas,COOE,Hot,1
+Ringeltaube,Com. Wood-Pigeon,Columba palumbus,COPA,Rt,1
+Wachtelkönig,Corn Crake,Crex crex,CRCR,Wk,1
+Kuckuck,Common Cuckoo,Cuculus canorus,CUCA,Ku,1
+Blaumeise,Eur. Blue Tit,Cyanistes caeruleus,CYCA,Bm,1
+Buntspecht,Great Sp. Woodp.,Dendrocopos major,DEMA,Bs,1
+Mittelspecht,Middle Sp. Woodp.,Dendrocoptes medius,DEME,Msp,1
+Mehlschwalbe,Common House-Martin,Delichon urbicum,DEUR,M,1
+Schwarzspecht,Black Woodp.,Dryocopus martius,DRMA,Ssp,1
+Kleinspecht,Lesser Sp. Woodp.,Dryobates minor,DRMI,Ks,1
+Goldammer,Yellowhammer,Emberiza citrinella,EMCI,G,1
+Rohrammer,Reed Bunting,Emberiza schoeniclus,EMSC,Ro,1
+Rotkehlchen,Europ. Robin,Erithacus rubecula,ERRU,R,1
+Wanderfalke,Peregrine Falcon,Falco peregrinus,FAPE,Wf,1
+Baumfalke,Eur. Hobby,Falco subbuteo,FASU,Bf,1
+Turmfalke,Eur. Kestrel,Falco tinnunculus,FATI,Tf,1
+Halsbandschnäpper,Col. Flycatcher,Ficedula albicollis,FIAL,Hb,1
+Trauerschnäpper,Eur. Pied Flycatcher,Ficedula hypoleuca,FIHY,Ts,1
+Zwergschnäpper,Red-breasted Flycatcher,Ficedula parva,FIPA,Zs,1
+Buchfink,Common Chaffinch,Fringilla coelebs,FRCO,B,1
+Bergfink,Brambling,Fringilla montifringilla,FRMO,Ber,1
+Eichelhäher,Eur. Jay,Garrulus glandarius,GAGL,Ei,1
+Sperlingskauz,Eur. Pygmy-Owl,Glaucidium passerinum,GLPA,Spk,1
+Kranich,Common Crane,Grus grus,GRGR,Kch,1
+Gelbspötter,Icterine Warbler,Hippolais icterina,HIIC,Gp,1
+Rauchschwalbe,Barn Swallow,Hirundo rustica,HIRU,Rs,1
+Wendehals,Eur. Wryneck,Jynx torquilla,JYTO,Wh,1
+Neuntöter,Red-backed Shrike,Lanius collurio,LACO,Nt,1
+Raubwürger,Great Gray Shrike,Lanius excubitor,LAEX,Rw,1
+Bluthänfling,Eur. Linnet,Linaria cannabina,LICA,Hä,1
+Haubenmeise,Crested Tit,Lophophanes cristatus,LOCR,Hm,1
+Fichtenkreuzschnabel,Red Crossbill,Loxia curvirostra,LOCU,Fk,1
+Feldschwirl,Common Grasshopper-Warbler,Locustella naevia,LONA,Fs,1
+Heidelerche,Wood Lark,Lullula arborea,LUAR,Hei,1
+Nachtigall,Common Nightingale,Luscinia megarhynchos,LUME,N,1
+Rotmilan,Red Kite,Milvus milvus,MIMI,Rm,1
+Schwarzmilan,Black Kite,Milvus migrans,MIMIG,Swm,1
+Bachstelze,White Wagtail,Motacilla alba,MOAL,Ba,1
+Gebirgsstelze,Gray Wagtail,Motacilla cinerea,MOCI,Ge,1
+Schafstelze,Western Yellow Wagtail,Motacilla flava,MOFL,St,1
+Grauschnäpper,Spotted Flyc.,Muscicapa striata,MUST,Gs,1
+Tannenhäher,Eur. Nutcracker,Nucifraga caryocatactes,NUCA,Th,1
+Pirol,Eur. Gold. Oriole,Oriolus oriolus,OROR,P,1
+Haussperling,House Sparrow,Passer domesticus,PADO,H,1
+Kohlmeise,Great Tit,Parus major,PAMA,K,1
+Feldsperling,Eur. Tree Sparrow,Passer montanus,PAMO,Fe,1
+Wespenbussard,Europ. Honey-buzzard,Pernis apivorus,PEAP,Wsb,1
+Tannenmeise,Coal Tit,Periparus ater,PEAT,Tm,1
+Rebhuhn,Gray Partridge,Perdix perdix,PEPE,Re,1
+Zilpzalp,Com. Chiffchaff,Phylloscopus collybita,PHCO,Zi,1
+Hausrotschwanz,Black Redstart,Phoenicurus ochruros,PHOC,Hr,1
+Gartenrotschwanz,Com. Redstart,Phoenicurus phoenicurus,PHPH,Gr,1
+Waldlaubsänger,Wood Warbler,Phylloscopus sibilatrix,PHSI,Wls,1
+Fitis,Willow Warbler,Phylloscopus trochilus,PHTR,F,1
+Grauspecht,Gray-h. Woodp.,Picus canus,PICA,Gsp,1
+Elster,Eur. Magpie,Pica pica,PIPI,E,1
+Grünspecht,Eur. Green Woodp.,Picus viridis,PIVI,Gü,1
+Weidenmeise,Willow Tit,Poecile montanus,POMO,Wm,1
+Sumpfmeise,Marsh Tit,Poecile palustris,POPA,Sum,1
+Heckenbraunelle,Dunnock,Prunella modularis,PRMO,He,1
+Gimpel,Eur. Bullfinch,Pyrrhula pyrrhula,PYPY,Gim,1
+Sommergoldhähnchen,Common Firecrest,Regulus ignicapilla,REIG,Sg,1
+Wintergoldhähnchen,Goldcrest,Regulus regulus,RERE,Wg,1
+Waldschnepfe,Eur. Woodcock,Scolopax rusticola,SCRU,Was,1
+Girlitz,Europ. Serin,Serinus serinus,SESE,Gi,1
+Kleiber,Eur. Nuthatch,Sitta europaea,SIEU,Kl,1
+Erlenzeisig,Eurasian Siskin,Spinus spinus,SPSP,Ez,1
+Waldkauz,Tawny Owl,Strix aluco,STAL,Wz,1
+Turteltaube,Europ. Turtle-Dove,Streptopelia turtur,STTU,Tut,1
+Star,Europ. Starling,Sturnus vulgaris,STVU,S,1
+Mönchsgrasmücke,Eur. Blackcap,Sylvia atricapilla,SYAT,Mg,1
+Gartengrasmücke,Garden Warbler,Sylvia borin,SYBO,Gg,1
+Dorngrasmücke,Greater Whitethroat,Sylvia communis,SYCO,Dg,1
+Klappergrasmücke,Lesser Whitethroat,Sylvia curruca,SYCU,Kg,1
+Haselhuhn,Hazel Grouse,Tetrastes bonasia,TEBO,Has,1
+Zaunkönig,Eur. Wren,Troglodytes troglodytes,TRTR,Z,1
+Rotdrossel,Redwing,Turdus iliacus,TUIL,Rd,1
+Amsel,Eur. Blackbird,Turdus merula,TUME,A,1
+Singdrossel,Song Thrush,Turdus philomelos,TUPH,Sd,1
+Wacholderdrossel,Fieldfare,Turdus pilaris,TUPI,Wd,1
+Ringdrossel,Ring Ouzel,Turdus torquatus,TUTO,Rdr,1
+Misteldrossel,Mistle Thrush,Turdus viscivorus,TUVI,Md,1
