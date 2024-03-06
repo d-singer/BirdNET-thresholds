@@ -18,7 +18,8 @@ validated_detections <- validated_detections %>%
   group_by(german) %>%
   mutate(tp_total = sum(validation))
 
-validated_detections <- validated_detections %>% filter(german %in% sort(unique(validated_detections$german[validated_detections$validation == 1])))
+validated_detections <- validated_detections %>% 
+  filter(german %in% sort(unique(validated_detections$german[validated_detections$validation == 1])))
 
 
 # Load models 
@@ -26,6 +27,7 @@ cand_mods <- readRDS("./data/candidate_models.rds")
 base_mods <- readRDS("./data/basic_models.rds")
 logi_para <- readRDS("./data/logistic_models.rds")
 
+# Calculate performance of universal threshold UNI10 (confidence >= 0.1)
 uni10 <- validated_detections %>% 
   filter(conf >= 0.1) %>%
   group_by(german) %>% 
@@ -37,12 +39,12 @@ uni10 <- validated_detections %>%
   unique() %>% 
   merge(validated_detections %>% select(german) %>% unique(), by="german", all.y=T)
 
+# Calculate performance of universal threshold UNI50 (confidence >= 0.5)
 uni50 <- validated_detections %>% 
   filter(conf >= 0.5) %>%
   group_by(german) %>% 
   summarize(
     prec = mean(validation),
-    
     recall = sum(validation) / tp_total,
     ) %>% unique() %>% 
   merge(validated_detections %>% select(german) %>% unique() , by="german", all.y=T) %>%
@@ -51,12 +53,12 @@ uni50$prec <- ifelse(is.na(uni50$prec), 0,uni50$prec)
 uni50$recall <- ifelse(is.na(uni50$recall), 1,uni50$recall)
 uni50$model_performance <- uni50$prec*0.75 + uni50$recall*0.25
 
+# Calculate performance of universal threshold UNI90 (confidence >= 0.9)
 uni90 <- validated_detections %>% 
   filter(conf >= 0.9) %>%
   group_by(german) %>% 
   summarize(
-    prec = mean(validation),
-    
+    prec = mean(validation),    
     recall = sum(validation) / tp_total,
   ) %>% unique() %>% 
   merge(validated_detections %>% select(german) %>% unique() , by="german", all.y=T) %>%
@@ -74,6 +76,7 @@ logi_para$prec[is.na(logi_para$prec)] <- logi_para$precUNI10[is.na(logi_para$pre
 logi_para$recall[is.na(logi_para$recall)] <- 1
 logi_para$model_performance <- logi_para$prec*0.75 + logi_para$recall*0.25
 logi_para <- logi_para %>% select(-precUNI10) 
+
 
 base_para <- base_mods %>% 
   mutate(threshold="base") %>% 
@@ -93,6 +96,7 @@ mod_comp <- mod_comp %>% mutate(threshold = factor(threshold, levels=c("base", "
 
 mod_comp <- left_join(mod_comp, spec_names[,c("german", "english", "scientific")], by="german")
 
+# define order of species  (here order according to precision of basic thresholds)
 specorder <- mod_comp %>% filter(threshold == "base") %>% 
   arrange(prec) %>% select(english, german)
 
@@ -104,6 +108,7 @@ thres_names <- data.frame(threshold = c("opti", "base", "logi", "uni10", "uni50"
 
 mod_comp<- left_join(mod_comp, thres_names, by="threshold") %>% arrange(threshold)
 
+# set order of thresholds (for graph legend)
 mod_comp$Threshold <- factor(mod_comp$type, levels=c("UNI10",
                                                      "UNI50",
                                                      "UNI90",
@@ -111,7 +116,8 @@ mod_comp$Threshold <- factor(mod_comp$type, levels=c("UNI10",
                                                      "CIT Basic",
                                                      "CIT Optimised"))
 
-#png(filename = "./figures/precision_species_colored.png", width=1000, height=1500, res = 150)
+
+
 
 prec_plot <- ggplot(mod_comp, aes(x=prec, y=english, fill=Threshold, shape=Threshold, size=Threshold)) + 
   geom_point(alpha=0.7)+
@@ -130,7 +136,6 @@ prec_plot <- ggplot(mod_comp, aes(x=prec, y=english, fill=Threshold, shape=Thres
   theme(legend.position='bottom') +
   guides(shape=guide_legend(ncol=6))
 
-prec_plot
 
 plot1 <- ggplot(mod_comp, aes(x=prec, y=Threshold, fill=Threshold)
   #                                shape=Threshold, size=Threshold)
@@ -155,7 +160,7 @@ plot1 <- ggplot(mod_comp, aes(x=prec, y=Threshold, fill=Threshold)
 
 plot1
 
-
+# Turn on if graphic should be written to png
 # png(filename = "./figures/performance_plot_20231229.png", width=4800, height=6800, res = 600)
 # ggpubr::ggarrange(plot1, prec_plot,  labels = c("A", "B"),
 #           ncol = 1, nrow = 2, align="v", heights=c(0.12, 0.88))
@@ -178,7 +183,6 @@ var <- vector()
 teststat <- vector()
 
 wilcox_comp <- mod_comp %>% pivot_wider(id_cols =c("german"), names_from="threshold", values_from=prec)
-
 
 for (v in vars)
 {
